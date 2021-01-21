@@ -2,7 +2,7 @@
 
 	//PDO or MySQLI to connect
 
-	$connect = mysqli_connect('localhost', 'admin', 'adminpass', 'supermarketdb1');
+	$connect = mysqli_connect('localhost', 'root', '', 'supermarketdb1');
 
 	// check connection
 
